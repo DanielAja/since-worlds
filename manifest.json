@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "version": 1,
+  "tag": "v1",
+  "minAppVersion": "1.1",
+  "packs": [
+    {
+      "id": "garden",
+      "file": "garden-v1.zip",
+      "bytes": 98279,
+      "unpackedBytes": 486873,
+      "sha256": "b90fcde35c4ef90d053fe9f8446ae19cf7af28b0665de5275cf56301e20753ed",
+      "items": [
+        "garden_apple",
+        "garden_bench",
+        "garden_bluebell",
+        "garden_bush",
+        "garden_daisy",
+        "garden_dumbbell",
+        "garden_fence",
+        "garden_gnome",
+        "garden_lantern",
+        "garden_money_tree",
+        "garden_mushroom",
+        "garden_pine",
+        "garden_pond",
+        "garden_rock",
+        "garden_sprout",
+        "garden_tulip"
+      ]
+    },
+    {
+      "id": "forest",
+      "file": "forest-v1.zip",
+      "bytes": 110285,
+      "unpackedBytes": 507806,
+      "sha256": "1d5d246a73beffcaf114acfde1ba2dfc66f7a34531a31fc27e5b601c9b58d434",
+      "items": [
+        "forest_beehive",
+        "forest_deer",
+        "forest_fern",
+        "forest_fox",
+        "forest_log",
+        "forest_mushrooms",
+        "forest_oak",
+        "forest_pine",
+        "forest_rock",
+        "forest_trail"
+      ]
+    },
+    {
+      "id": "city",
+      "file": "city-v1.zip",
+      "bytes": 119643,
+      "unpackedBytes": 844423,
+      "sha256": "a529e85955522571ff9ce7c8b4a644893e2ed36198b7fce366bebc3e1e581b51",
+      "items": [
+        "city_bank",
+        "city_fountain",
+        "city_gym",
+        "city_house",
+        "city_park",
+        "city_shop",
+        "city_statue",
+        "city_statue_park",
+        "city_streetlight",
+        "city_tower",
+        "city_tram"
+      ]
+    },
+    {
+      "id": "farm",
+      "file": "farm-v1.zip",
+      "bytes": 119862,
+      "unpackedBytes": 721721,
+      "sha256": "ac1c0b1473772babe305f7a68c1b3a54f02a8b8f45d81025a2a11bfb79ba52bf",
+      "items": [
+        "farm_barn",
+        "farm_chicken",
+        "farm_cow",
+        "farm_gym",
+        "farm_haybale",
+        "farm_scarecrow",
+        "farm_silo",
+        "farm_stand",
+        "farm_tractor",
+        "farm_well",
+        "farm_wheat"
+      ]
+    },
+    {
+      "id": "coastal",
+      "file": "coastal-v1.zip",
+      "bytes": 137933,
+      "unpackedBytes": 822756,
+      "sha256": "2cf7167106e111a4a1b3d36f6b0ba9720b867478b8a15b0f9d6be039e5feba61",
+      "items": [
+        "coastal_boat",
+        "coastal_dock",
+        "coastal_lighthouse",
+        "coastal_market",
+        "coastal_palm",
+        "coastal_sandcastle",
+        "coastal_shell",
+        "coastal_surf",
+        "coastal_umbrella",
+        "coastal_whale"
+      ]
+    },
+    {
+      "id": "ambient",
+      "file": "ambient-v1.zip",
+      "bytes": 65155,
+      "unpackedBytes": 255015,
+      "sha256": "dc9109abb74a74f94294606f6fb4e3abf3a76293ef7ff40adf56de2c03f04d42",
+      "items": [
+        "amb_bee",
+        "amb_bird",
+        "amb_bus",
+        "amb_butterfly",
+        "amb_car",
+        "amb_chicken",
+        "amb_deer",
+        "amb_firefly",
+        "amb_fish",
+        "amb_person",
+        "amb_seagull",
+        "amb_sheep"
+      ]
+    }
+  ]
+}
